@@ -9,10 +9,10 @@ name:  Wpf Continuous Integration
 on:
   push:
     branches:
-      - master
+      - hf_test2
   pull_request:
     branches:
-      - master
+      - hf_test2
 
 jobs:
 
